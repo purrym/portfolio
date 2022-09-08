@@ -13,6 +13,7 @@ h2 {
 }
 img {
     width: 250px;
+    text-align: center;
 }
 h3 {
     display: block;
@@ -29,5 +30,4 @@ h4 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
-    text-align: center;
 }
