@@ -1,5 +1,7 @@
  body {
     font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    background-color: darkmagenta;
 }
 h2 {
     display: block;
@@ -10,6 +12,7 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
     text-align: center;
+
 }
 img {
     width: 250px;
