@@ -22,4 +22,4 @@ About Me
 git clone https://github.com/purrym/portfolio.git
 ```
 > on bash terminal paste code .
-> run with live server
+> run with live server using localhost:3000
