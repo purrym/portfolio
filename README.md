@@ -7,7 +7,7 @@ Portfolio
 ```
 Purity Munene
 ```
-##Description of Project
+## Description of Project
 About Me
 
 ## Technologies
