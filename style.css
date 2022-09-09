@@ -1,7 +1,8 @@
  body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     box-sizing: border-box;
     background-color: darkmagenta;
+    font-size: 16px;
 }
 h2{
     display: block;
@@ -9,23 +10,24 @@ h2{
     font-weight: bold;
     text-align: center;
 }
+p{
+    font-size: 16px;
+    line-height: 1.58; 
+    text-align: center;
+}
+div {
+    border-radius:.25rem;
+    background-color:#fff;
+    border:1px solid rgba(0,0,0,.125);
+    margin-bottom:3rem;
+}
 img {
     width: 250px;
     text-align: center;
 }
 h3 {
-    display: block;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
     text-align: center;
 }
 h4 {
-    display: block;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
     font-weight: bold;
 }
