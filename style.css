@@ -15,19 +15,13 @@ p{
     line-height: 1.58; 
     text-align: center;
 }
-div {
-    border-radius:.25rem;
-    background-color:#fff;
-    border:1px solid rgba(0,0,0,.125);
-    margin-bottom:3rem;
+.container {
+    width:270px;
+    height:auto;
+    padding:1%;
+    float:left;
+    align-items: center;
 }
-img {
-    width: 250px;
-    text-align: center;
-}
-h3 {
-    text-align: center;
-}
-h4 {
-    font-weight: bold;
+.container2 {
+    float: center;
 }
